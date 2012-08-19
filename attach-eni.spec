@@ -105,7 +105,7 @@ class EC2Client
 
       return if interface['status'] == 'available'
 
-      sleep WAIT_INERVAL
+      sleep WAIT_INTERVAL
     end
 
     raise 'cannot detach interface'
