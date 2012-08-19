@@ -1,7 +1,0 @@
-Usage: attach-eni [options]
-    -k, --access-key ACCESS_KEY
-    -s, --secret-key SECRET_KEY
-    -r, --region REGION
-    -n, --network-if-id IF_ID
-    -d, --device-index INDEX
-    -i, --instance-id INSTANCE_ID
